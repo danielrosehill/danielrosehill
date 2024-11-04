@@ -10,6 +10,8 @@
 
  Current interests: exploring large language models (LLMs); thinking broadly about ways to organise and store LLM outputs; working on a [project](https://github.com/danielrosehill/My-LLM-KM-Idea) to create a graph-native system for storing AI-derived text snippets.
 
- Older and less exciting interests: Linux backup (these days, I use OpenSUSE), data visualisation, and (thought less on Github) leveraging all that to tell the stories behind the numbers.
+ Older and less exciting interests: Linux backup (these days, I use OpenSUSE), data visualisation, and (though less on Github) leveraging all that to tell the stories behind the numbers.
+
+ Related profiles: [Kaggle](https://www.kaggle.com/datasets/danielrosehill), [Hugging Face](https://huggingface.co/danielrosehill).
 
  Thanks for stopping by!
