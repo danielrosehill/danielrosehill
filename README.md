@@ -14,4 +14,8 @@
 
  Related profiles: [Kaggle](https://www.kaggle.com/datasets/danielrosehill), [Hugging Face](https://huggingface.co/danielrosehill).
 
+ ![New Update](https://img.shields.io/badge/New%20Update%21-brightgreen?style=for-the-badge)
+
+The documentation I host on Github is now gathered and (semi) organised at [docs.bydanielrosehill.com](https://docs.bydanielrosehill.com).
+
  Thanks for stopping by!
