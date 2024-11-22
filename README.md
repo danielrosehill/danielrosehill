@@ -10,10 +10,32 @@
 
  Older and less exciting interests: Linux backup (these days, I use OpenSUSE), data visualisation, and (though less on Github) leveraging all that to tell the stories behind the numbers.
 
- Related profiles: [Kaggle](https://www.kaggle.com/datasets/danielrosehill), [Hugging Face](https://huggingface.co/danielrosehill).
+ <table>
+  <tr>
+    <td>
+      <a href="https://danielrosehill.com">
+        <img src="https://img.shields.io/badge/Personal%20Homepage-Visit%20Now-blue" alt="Personal Homepage">
+      </a>
+    </td>
+    <td>
+      <a href="https://docs.bydanielrosehill.com/">
+        <img src="https://img.shields.io/badge/Docs%20Homepage-Explore%20Docs-green" alt="Docs Homepage">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://danielrosehill.com/projects/">
+        <img src="https://img.shields.io/badge/Other%20Projects-View%20Projects-orange" alt="Other Projects">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/danielrosehill/Github-Repo-Index">
+        <img src="https://img.shields.io/badge/Repo%20Index-Browse%20Repos-purple" alt="Repo Index">
+      </a>
+    </td>
+  </tr>
+</table>
 
- ![New Update](https://img.shields.io/badge/New%20Update%21-brightgreen?style=for-the-badge)
-
-The documentation I host on Github is now gathered and (semi) organised at [docs.bydanielrosehill.com](https://docs.bydanielrosehill.com).
-
+ 
  Thanks for stopping by!
