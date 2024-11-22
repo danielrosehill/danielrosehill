@@ -13,24 +13,24 @@
  <table>
   <tr>
     <td>
-      <a href="https://danielrosehill.com">
+      <a href="https://danielrosehill.com" target="_blank">
         <img src="https://img.shields.io/badge/Personal%20Homepage-Visit%20Now-blue" alt="Personal Homepage">
       </a>
     </td>
     <td>
-      <a href="https://docs.bydanielrosehill.com/">
+      <a href="https://docs.bydanielrosehill.com/" target="_blank">
         <img src="https://img.shields.io/badge/Docs%20Homepage-Explore%20Docs-green" alt="Docs Homepage">
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://danielrosehill.com/projects/">
+      <a href="https://danielrosehill.com/projects/" target="_blank">
         <img src="https://img.shields.io/badge/Other%20Projects-View%20Projects-orange" alt="Other Projects">
       </a>
     </td>
     <td>
-      <a href="https://github.com/danielrosehill/Github-Repo-Index">
+      <a href="https://github.com/danielrosehill/Github-Repo-Index" target="_blank">
         <img src="https://img.shields.io/badge/Repo%20Index-Browse%20Repos-purple" alt="Repo Index">
       </a>
     </td>
