@@ -10,6 +10,8 @@
 
  Older and less exciting interests: Linux backup (these days, I use OpenSUSE), data visualisation, and (though less on Github) leveraging all that to tell the stories behind the numbers.
 
+ *Note: I reorganised my repositories in November 2024 which - unfortunately - had the inadvertent effect of removing previous repo followers. If you starred or followed a repo previously and would like to keep updated, please do so again. I apologise for the inconvenience!*
+
  <table>
   <tr>
     <td>
