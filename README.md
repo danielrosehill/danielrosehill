@@ -1,56 +1,59 @@
-# Daniel's Github Homepage!
+<h1 align="center">Daniel's GitHub Portfolio</h1>
 
- ![alt text](images/banners/1.webp)
+<p align="center">
+  <img src="images/banners/1.webp" alt="Banner" width="100%" style="border-radius: 10px;">
+</p>
 
- Welcome to my homepage on Github! 
- 
- If this isn't the most chaotic collection of repositories you've seen on Github this hour, then you get your money back. 
+<div align="center">
+  
+[![Personal Homepage](https://img.shields.io/badge/🏠_Personal_Homepage-2ea44f?style=for-the-badge)](https://danielrosehill.com)
+[![Master Index](https://img.shields.io/badge/📚_Master_Index-4A154B?style=for-the-badge)](https://github.com/danielrosehill/Github-Repo-Index)
 
- I've spent most of my career to date working in tech communications and writing, but like the rest of humanity have succumbed to deep fascination with the potential of AI workflows & LLMs to hopefully change our world for the better. 
+</div>
 
- My current job involves working in the nonprofit sector (impact investing) where I try to bring some creative and technical approaches to visualizing data with the objective of better telling the mission of our industry. 
+## 👋 Welcome!
 
- Among the scattered notes in this Github repository are a few core projects, or aspects of them, that I've been working at for some time. 
- 
- Within the context of large language models, two threads are of particular interest to me at the moment: 
- 
- The first is developing simple but effective workflows for generating, storing and using personal context repositories (my home-cooked jargon is "context repos"). I believe that RAG approaches (at a much more modest level of scale) can yield massive value for many different personal uses. 
+Welcome to my GitHub portfolio! I'm a tech communications professional with a deep interest in AI workflows & LLMs, working to drive positive change through technology.
 
- Another question that greatly interests me, and which I have been exploring through some open source projects, is the question of output management. I've devised some CRUD prototypes for storing and managing LLM outputs in a methodical way, relating them to prompt libraries and agent configurations in an integrated data store. The initial implementation was using Postgres; aspirational architectures I'm tinkering with use Mongodb and Neo4J. 
- 
- Beyond the digital plumbing of backend routing and storage lies the much more significant question of how we can leverage this cogenerated data to better our lives. Like how to best leverage context for personal uses, this is another important aspect of the ongoing puzzle called *"How can we leverage these great technologies To the maximal possible effect?"*
+## 🚀 Current Focus
 
- While I love creating ridiculous pictures of sloths with DALLE as much as the next guy (okay, maybe a bit more), my real interests in this are how AI technologies can improve lives. My collection of LLM assistants is proudly sprawling. But to say that it scratches the surface of the potential use cases of these technologies is to put it too kindly. I believe these are great times for technology in the making and its fun to be part of the journey. 
- 
+I'm currently working in the nonprofit sector (impact investing), where I combine creative and technical approaches to data visualization to better communicate our industry's mission.
 
- *Note: I reorganised my repositories in November 2024 which - unfortunately - had the inadvertent effect of removing previous repo followers. If you starred or followed a repo previously and would like to keep updated, please do so again. I apologise for the inconvenience!*
+## 💡 Key Interests
 
- <table>
-  <tr>
-    <td>
-      <a href="https://danielrosehill.com" target="_blank">
-        <img src="https://img.shields.io/badge/Personal%20Homepage-Visit%20Now-blue" alt="Personal Homepage">
-      </a>
-    </td>
-    <td>
-      <a href="https://docs.bydanielrosehill.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Docs%20Homepage-Explore%20Docs-green" alt="Docs Homepage">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://danielrosehill.com/projects/" target="_blank">
-        <img src="https://img.shields.io/badge/Other%20Projects-View%20Projects-orange" alt="Other Projects">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/danielrosehill/Github-Repo-Index" target="_blank">
-        <img src="https://img.shields.io/badge/Repo%20Index-Browse%20Repos-purple" alt="Repo Index">
-      </a>
-    </td>
-  </tr>
-</table>
+### Personal Context Repositories
+I'm developing workflows for generating, storing, and utilizing personal context repositories. My belief is that RAG approaches, even at modest scales, can provide significant value for personal applications.
 
- 
- Thanks for stopping by!
+### LLM Output Management
+I'm exploring output management through open-source projects, creating CRUD prototypes for:
+- Storing and managing LLM outputs systematically
+- Relating outputs to prompt libraries
+- Integrating agent configurations in data stores
+- Initial implementation: PostgreSQL
+- Exploring: MongoDB and Neo4J architectures
+
+## 🎯 Vision
+
+While AI technologies like DALL-E offer entertaining possibilities, my primary focus is on leveraging AI to improve lives meaningfully. I maintain a diverse collection of LLM assistants, yet I believe we're only beginning to scratch the surface of potential applications.
+
+## 🔗 Quick Links
+
+<div align="center">
+
+| Resource | Link |
+|----------|------|
+| 📚 Documentation | [![Docs](https://img.shields.io/badge/Explore_Documentation-4285F4?style=for-the-badge)](https://docs.bydanielrosehill.com/) |
+| 🛠️ Projects | [![Projects](https://img.shields.io/badge/View_Projects-FF6B6B?style=for-the-badge)](https://danielrosehill.com/projects/) |
+
+</div>
+
+---
+
+<p align="center"><i>Note: Repositories were reorganized in November 2024. If you previously starred or followed a repo and would like to stay updated, please re-follow. Apologies for any inconvenience!</i></p>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=danielrosehill&color=brightgreen)
+[![GitHub followers](https://img.shields.io/github/followers/danielrosehill?label=Follow&style=social)](https://github.com/danielrosehill)
+
+</div>
