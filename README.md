@@ -1,4 +1,4 @@
-<h1 align="center">Daniel's GitHub Portfolio</h1>
+<h1 align="center">Daniel's GitHub</h1>
 
 <p align="center">
   <img src="images/banners/1.webp" alt="Banner" width="100%" style="border-radius: 10px;">
@@ -13,11 +13,11 @@
 
 ## 👋 Welcome!
 
-Welcome to my GitHub portfolio! I'm a tech communications professional with a deep interest in AI workflows & LLMs, working to drive positive change through technology.
+Welcome to my GitHub page! I'm a tech communications professional with a deep interest in AI workflows & LLMs, working to drive positive change through technology.
 
 ## 🚀 Current Focus
 
-I'm currently working in the nonprofit sector (impact investing), where I combine creative and technical approaches to data visualization to better communicate our industry's mission.
+I combine creative and technical approaches to data visualization, focusing on innovative ways to communicate complex information effectively.
 
 ## 💡 Key Interests
 
@@ -44,6 +44,8 @@ While AI technologies like DALL-E offer entertaining possibilities, my primary f
 |----------|------|
 | 📚 Documentation | [![Docs](https://img.shields.io/badge/Explore_Documentation-4285F4?style=for-the-badge)](https://docs.bydanielrosehill.com/) |
 | 🛠️ Projects | [![Projects](https://img.shields.io/badge/View_Projects-FF6B6B?style=for-the-badge)](https://danielrosehill.com/projects/) |
+| 📝 Tech Blog | [![Blog](https://img.shields.io/badge/Read_Blog-2962FF?style=for-the-badge)](https://heyitworks.tech/) |
+| 🎥 YouTube | [![YouTube](https://img.shields.io/badge/Watch_Videos-FF0000?style=for-the-badge)](https://www.youtube.com/channel/UCQ1TBIr0NOQsWiQtil8OAjw) |
 
 </div>
 
