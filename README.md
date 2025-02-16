@@ -1,53 +1,27 @@
-<h1 align="center">Daniel's GitHub</h1>
-
-<p align="center">
+<h1 align="center">Daniell Rosehill's GitHub</h1>
+ 
   <img src="images/banners/1.webp" alt="Banner" width="100%" style="border-radius: 10px;">
 </p>
 
-<div align="center">
+ 
   
-[![Personal Homepage](https://img.shields.io/badge/🏠_Personal_Homepage-2ea44f?style=for-the-badge)](https://danielrosehill.com)
-[![Master Index](https://img.shields.io/badge/📚_Master_Index-4A154B?style=for-the-badge)](https://github.com/danielrosehill/Github-Repo-Index)
+ 
+My vision of open source involves open sourcing not only my good ideas, but also my bad ones, my idea sketches, and joke configurations I write at three in the morning for [weirdly confrontational AI bots](https://github.com/danielrosehill/Weird-AI-Bots/blob/main/standoffish-ai-tool.md) (best deployed as two voice agent configurations bickering down the ether at one another).
 
-</div>
+My name is Daniel. I live in Jerusalem, Israel, and I've spent most of my career to date working in tech communications.
 
-## 👋 Welcome!
+I'm fascinated by AI, and since about last year, have been sharing some experiments, GUIs, and projects on Github.
 
-Welcome to my GitHub page! I'm a tech communications professional with a deep interest in AI workflows & LLMs, working to drive positive change through technology.
+This Github profile is, in a sense, an imprint of my thinking. The contours and points of connections are mapped out in indexed repositories which I try to update every few months.
 
-## 🚀 Current Focus
+My main interests within AI include the idea of proactively generating personal context data fed into RAG pipelines for hyper-personalized inference. To that end, I'm currently running a private experiment by which I feed contextual information about my life into a vector store, backed by an individual agent.
 
-I combine creative and technical approaches to data visualization, focusing on innovative ways to communicate complex information effectively.
+I'm also very interested in Agentic AI, multi-agent networks, MCP, and workflow orchestration, again for a mixture of personal and professional uses. Over the course of the past 18 months, I've written more than 500 configurations for a huge network of assistants, covering both personal and professional use cases. While not all of the agents are indispensable, some are, and this year I'm working on refining the emerging art of workflow orchestration, bringing networks of agents together to achieve meaningful outcomes.
 
-## 💡 Key Interests
+My overall vision of AI is one in which we think beyond the low-hanging fruit commercial use cases. AI tools can certainly better business productivity, but I'm also interested in how they can better lives. I take a long-term vision to the technology's role in reshaping our societies.
 
-### Personal Context Repositories
-I'm developing workflows for generating, storing, and utilizing personal context repositories. My belief is that RAG approaches, even at modest scales, can provide significant value for personal applications.
+I receive a daily barrage of unsolicited spam and have given up on configuring email filters, but I love hearing from real people working on similar ideas, so don't hesitate to drop me a line at the contact email.
 
-### LLM Output Management
-I'm exploring output management through open-source projects, creating CRUD prototypes for:
-- Storing and managing LLM outputs systematically
-- Relating outputs to prompt libraries
-- Integrating agent configurations in data stores
-- Initial implementation: PostgreSQL
-- Exploring: MongoDB and Neo4J architectures
-
-## 🎯 Vision
-
-While AI technologies like DALL-E offer entertaining possibilities, my primary focus is on leveraging AI to improve lives meaningfully. I maintain a diverse collection of LLM assistants, yet I believe we're only beginning to scratch the surface of potential applications.
-
-## 🔗 Quick Links
-
-<div align="center">
-
-| Resource | Link |
-|----------|------|
-| 📚 Documentation | [![Docs](https://img.shields.io/badge/Explore_Documentation-4285F4?style=for-the-badge)](https://docs.bydanielrosehill.com/) |
-| 🛠️ Projects | [![Projects](https://img.shields.io/badge/View_Projects-FF6B6B?style=for-the-badge)](https://danielrosehill.com/projects/) |
-| 📝 Tech Blog | [![Blog](https://img.shields.io/badge/Read_Blog-2962FF?style=for-the-badge)](https://heyitworks.tech/) |
-| 🎥 YouTube | [![YouTube](https://img.shields.io/badge/Watch_Videos-FF0000?style=for-the-badge)](https://www.youtube.com/channel/UCQ1TBIr0NOQsWiQtil8OAjw) |
-
-</div>
 
 ---
 
