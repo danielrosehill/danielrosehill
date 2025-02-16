@@ -13,21 +13,21 @@ This Github profile is, in a sense, an imprint of my thinking. The contours and 
 
 ## My AI Interests
 
-My main interests within AI include the idea of proactively generating personal context data fed into RAG pipelines for hyper-personalized inference. To that end, I'm currently running a private experiment by which I feed contextual information about my life into a vector store, backed by an individual agent. I'll share results once I've developed and ingressed a meaningfully large repository of context data. A working prototype of the workflow, and its repo, is [here](https://github.com/danielrosehill/Agentic-Context-Development-Interview-Demo).
+My main interests within AI include the idea of proactively generating personal context data fed into RAG pipelines for hyper-personalized inference. To that end, I'm currently running a private experiment by which I feed contextual information about my life into a vector store, backed by an individual agent. I'll share results once I've developed and ingested a meaningfully large repository of context data. A working prototype of the workflow, and its repo, is [here](https://github.com/danielrosehill/Agentic-Context-Development-Interview-Demo).
 
-My RAG/context "beliefs": you really don't need much of it to do some very impressive things; it can offer vast utility for personal users; it is extraordinarily useful (and powerful) for so much more than just indexing knowledge bases and enterprise data stores. You can fit (quite literally) your life story into a single text document and with LLMs with one million plus input token windows widely available, that opens up a lot of intriguing possibilties. 
+My RAG/context "beliefs": you really don't need much of it to do some very impressive things; it can offer vast utility for personal users; it is extraordinarily useful (and powerful) for so much more than just indexing knowledge bases and enterprise data stores. You can fit (quite literally) your life story into a single text document and with LLMs with one million plus input token windows widely available, that opens up a lot of intriguing possibilities.
 
-Also of interest and in a very complementary way (because conterxt is only useful when we can *do* things with it): agentic AI, multi-agent networks, MCP, and workflow orchestration. Over the course of the past 18 months, I've written **a lot*** of configurations for a network of assistants and agents, covering both personal and professional use cases. My first "creations" were system prompts, then assistants with RAG pipelines, and now I'm working on workflows and configurations with agentic capabiltiies. 
+Also of interest and in a very complementary way (because context is only useful when we can *do* things with it): agentic AI, multi-agent networks, MCP, and workflow orchestration. Over the course of the past 18 months, I've written **a lot** of configurations for a network of assistants and agents, covering both personal and professional use cases. My first "creations" were system prompts, then assistants with RAG pipelines, and now I'm working on workflows and configurations with agentic capabilities.
 
 ## AI Philosophy
 
 Besides being a long-term advocate of open-source, I'm a huge believer in the transformative potential of AI for good. While debates around AI ethics and security interest me and advances in reasoning models are exciting, I'm more interested by the open-ended question of how we can best leverage what we have *already* to use the technology to make meaningful differences in users' lives.
 
-Meaningless AI hype irks me as much as it does every semi to highly cantankerous techie on the internet. But I love the fact that the textbook on what AI can do hasn't been written yet. To greater and lesser extents, we're all free-styling it. It's a crazy experiment. With potentially great results. 
- 
- ## Contact & Spam Avoidance
+Meaningless AI hype irks me as much as it does every semi to highly cantankerous techie on the internet, but I love the fact that the textbook on what AI can do hasn't been written yet. To greater and lesser extents, we're all free-styling it. It's a crazy experiment, with potentially great results.
 
-Note: I receive a daily and ever-worsening barrage of unsolicited spam which is sadly (*okay, maybe I blame AI here*) is getting harder and harder to distinguish from real genuine human-to-human outreach (which I also get some of!). If you're also into AI, tech, and want to chat, drop me a line at the email in the sidebar.  
+## Contact & Spam Avoidance
+
+Note: I receive a daily and ever-worsening barrage of unsolicited spam which is sadly (*okay, maybe I blame AI here*) is getting harder and harder to distinguish from real genuine human-to-human outreach (which I also get some of!). If you're also into AI, tech, and want to chat, drop me a line at the email in the sidebar.
 
 ---
 
