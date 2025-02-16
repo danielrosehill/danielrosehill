@@ -15,9 +15,9 @@ This Github profile is, in a sense, an imprint of my thinking. The contours and 
 
 My main interests within AI include the idea of proactively generating personal context data fed into RAG pipelines for hyper-personalized inference. To that end, I'm currently running a private experiment by which I feed contextual information about my life into a vector store, backed by an individual agent. I'll share results once I've developed and ingressed a meaningfully large repository of context data. A working prototype of the workflow, and its repo, is [here](https://github.com/danielrosehill/Agentic-Context-Development-Interview-Demo).
 
-My RAG/context "beliefs": you really don't need much of it to do impressive things; it can offer vast utility for personal users; it is so useful for so much more than just enterprising knowledge bases and enterprise data stores. You can fit a vast amount of context data into a text file and with million token input context windows LLMs make light word of it. 
+My RAG/context "beliefs": you really don't need much of it to do some very impressive things; it can offer vast utility for personal users; it is so useful for so much more than just indexing knowledge bases and enterprise data stores.  You can fit your life story into a single text document and with LLMs with one million plus input token windows widely available, that opens up a lot of intriguing possibilties. 
 
-Also of interest: agentic AI, multi-agent networks, MCP, and workflow orchestration. Over the course of the past 18 months, I've written **a lot*** of configurations for a network of assistants and agents, covering both personal and professional use cases. My first "creations" were system prompts, then assistants with RAG pipelines, and now I'm working on workflows and configurations with agentic capabiltiies. 
+Also of interest and in a very complementary way: agentic AI, multi-agent networks, MCP, and workflow orchestration. Over the course of the past 18 months, I've written **a lot*** of configurations for a network of assistants and agents, covering both personal and professional use cases. My first "creations" were system prompts, then assistants with RAG pipelines, and now I'm working on workflows and configurations with agentic capabiltiies. 
 
 ## AI Philosophy
 
