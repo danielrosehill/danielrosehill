@@ -2,9 +2,7 @@
  
   <img src="images/banners/1.webp" alt="Banner" width="100%" style="border-radius: 10px;">
 </p>
-
  
-  
  
 My vision of open source involves open sourcing not only my good ideas, but also my bad ones, my idea sketches, and joke configurations I write at three in the morning for [weirdly confrontational AI bots](https://github.com/danielrosehill/Weird-AI-Bots/blob/main/standoffish-ai-tool.md) (best deployed as two voice agent configurations bickering down the ether at one another).
 
@@ -18,10 +16,9 @@ My main interests within AI include the idea of proactively generating personal 
 
 I'm also very interested in Agentic AI, multi-agent networks, MCP, and workflow orchestration, again for a mixture of personal and professional uses. Over the course of the past 18 months, I've written more than 500 configurations for a huge network of assistants, covering both personal and professional use cases. While not all of the agents are indispensable, some are, and this year I'm working on refining the emerging art of workflow orchestration, bringing networks of agents together to achieve meaningful outcomes.
 
-My overall vision of AI is one in which we think beyond the low-hanging fruit commercial use cases. AI tools can certainly better business productivity, but I'm also interested in how they can better lives. I take a long-term vision to the technology's role in reshaping our societies.
+Besides being a long-term advocate of open-source, I'm a huge believer in the transformative potential of AI for good. While debates around AI ethics and security interest me and advances in reasoning models are exciting, I'm more interested by the open-ended question of how we can best leverage what we have *already* to use the technology to make meaningful differences in users' lives.
 
-I receive a daily barrage of unsolicited spam and have given up on configuring email filters, but I love hearing from real people working on similar ideas, so don't hesitate to drop me a line at the contact email.
-
+Note: I receive a daily and ever-worsening barrage of unsolicited spam which is sadly (*okay, maybe I blame AI here*) is getting harder and harder to distinguish from real genuine human-to-human outreach (which I also get some of!). If you're also into AI, tech, and want to chat, drop me a line at the email in the sidebar.  
 
 ---
 
