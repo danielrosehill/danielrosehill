@@ -33,11 +33,9 @@ I share the common aversion to meaningless AI hype, but I am excited by the fact
 
 Note: I am receiving an increasing amount of unsolicited spam, which is becoming difficult to distinguish from genuine human outreach. If you share interests in AI and tech, please feel free to contact me via the email address listed in the sidebar.
 
----
+ Note: Repositories were reorganized in November 2024. If you previously starred or followed a repository and would like to stay updated, please re-follow. I apologize for any inconvenience. 
 
-<p align="center"><i>Note: Repositories were reorganized in November 2024. If you previously starred or followed a repository and would like to stay updated, please re-follow. I apologize for any inconvenience.</i></p>
-
-<div align="center">
+ 
 ![Profile Views](https://komarev.com/ghpvc/?username=danielrosehill&color=brightgreen)
 [![GitHub followers](https://img.shields.io/github/followers/danielrosehill?label=Follow&style=social)](https://github.com/danielrosehill)
-</div>
+ 
