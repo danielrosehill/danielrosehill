@@ -4,25 +4,14 @@
 </p>
 
 <div align="center">
-
 ![Profile Views](https://komarev.com/ghpvc/?username=danielrosehill&color=brightgreen)
-![Location](https://img.shields.io/badge/Location-Jerusalem,%20Israel-green?style=flat-square&logo=google-maps)
-[![Website](https://img.shields.io/badge/Website-danielrosehill.com-blue?style=flat-square&logo=firefox)](https://danielrosehill.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/danielrosehill/)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Profile-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/danielrosehill)
-![Tech Focus](https://img.shields.io/badge/Focus-AI%20%7C%20RAG%20%7C%20Agents-purple?style=flat-square&logo=openai)
-
 </div>
-
-<details>
-<summary><strong>About Me</strong></summary>
 
 My approach to open source involves sharing not only well-developed ideas, but also preliminary sketches, and even experimental configurations like the [weirdly confrontational AI bots](https://github.com/danielrosehill/Weird-AI-Bots/blob/main/standoffish-ai-tool.md) (ideally deployed as two voice agent configurations engaging in spirited debate).
 
 My name is Daniel Rosehill. I am based in Jerusalem, Israel and have spent most of my career in tech communications. I maintain a strong interest in AI and have been sharing experiments, GUIs, and projects on GitHub since last year.
 
 This GitHub profile serves as a record of my evolving thoughts and explorations. The structure and connections are reflected in my [repository index](https://github.com/danielrosehill/Repo-Index), which I update periodically to catalog and organize all my projects and experiments.
-</details>
 
 <details>
 <summary><strong>My AI Interests</strong></summary>
@@ -49,7 +38,17 @@ I share the common aversion to meaningless AI hype, but I am excited by the fact
 </details>
 
 <details>
-<summary><strong>Contact & Important Notes</strong></summary>
+<summary><strong>Other Social Media</strong></summary>
+
+![Location](https://img.shields.io/badge/Location-Jerusalem,%20Israel-green?style=flat-square&logo=google-maps)
+[![Website](https://img.shields.io/badge/Website-danielrosehill.com-blue?style=flat-square&logo=firefox)](https://danielrosehill.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/danielrosehill/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Profile-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/danielrosehill)
+![Tech Focus](https://img.shields.io/badge/Focus-AI%20%7C%20RAG%20%7C%20Agents-purple?style=flat-square&logo=openai)
+</details>
+
+<details>
+<summary><strong>Contact Information</strong></summary>
 
 Note: I am receiving an increasing amount of unsolicited spam, which is becoming difficult to distinguish from genuine human outreach. If you share interests in AI and tech, please feel free to contact me via the email address listed in the sidebar.
 
