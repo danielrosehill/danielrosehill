@@ -33,9 +33,15 @@ I share the common aversion to meaningless AI hype, but I am excited by the fact
 
 Note: I am receiving an increasing amount of unsolicited spam, which is becoming difficult to distinguish from genuine human outreach. If you share interests in AI and tech, please feel free to contact me via the email address listed in the sidebar.
 
- Note: Repositories were reorganized in November 2024. If you previously starred or followed a repository and would like to stay updated, please re-follow. I apologize for any inconvenience. 
+Note: Repositories were reorganized in November 2024. If you previously starred or followed a repository and would like to stay updated, please re-follow. I apologize for any inconvenience. 
 
- 
-![Profile Views](https://komarev.com/ghpvc/?username=danielrosehill&color=brightgreen)
-[![GitHub followers](https://img.shields.io/github/followers/danielrosehill?label=Follow&style=social)](https://github.com/danielrosehill)
- 
+## Connect & Stats
+
+| Platform & Stats | Badge |
+|-----------------|-------|
+| Profile Views | ![Profile Views](https://komarev.com/ghpvc/?username=danielrosehill&color=brightgreen) |
+| GitHub | [![GitHub followers](https://img.shields.io/github/followers/danielrosehill?label=Follow&style=flat-square)](https://github.com/danielrosehill) |
+| Website | [![Website](https://img.shields.io/badge/Website-danielrosehill.com-blue?style=flat-square&logo=firefox)](https://danielrosehill.com) |
+| LinkedIn | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/danielrosehill/) |
+| Location | ![Location](https://img.shields.io/badge/Location-Jerusalem,%20Israel-green?style=flat-square&logo=google-maps) |
+| Tech Focus | ![Tech Focus](https://img.shields.io/badge/Focus-AI%20%7C%20RAG%20%7C%20Agents-purple?style=flat-square&logo=openai) |
