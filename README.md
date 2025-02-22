@@ -7,7 +7,7 @@ My approach to open source involves sharing not only well-developed ideas, but a
 
 My name is Daniel Rosehill. I am based in Jerusalem, Israel and have spent most of my career in tech communications. I maintain a strong interest in AI and have been sharing experiments, GUIs, and projects on GitHub since last year.
 
-This GitHub profile serves as a record of my evolving thoughts and explorations. The structure and connections are reflected in indexed repositories that I update periodically.
+This GitHub profile serves as a record of my evolving thoughts and explorations. The structure and connections are reflected in my [repository index](https://github.com/danielrosehill/Repo-Index), which I update periodically to catalog and organize all my projects and experiments.
 
 ## My AI Interests
 
@@ -35,12 +35,11 @@ Note: I am receiving an increasing amount of unsolicited spam, which is becoming
 
 Note: Repositories were reorganized in November 2024. If you previously starred or followed a repository and would like to stay updated, please re-follow. I apologize for any inconvenience. 
 
-## Other Social Networks
+## Connect & Stats
 
 | Platform & Stats | Badge |
 |-----------------|-------|
 | Profile Views | ![Profile Views](https://komarev.com/ghpvc/?username=danielrosehill&color=brightgreen) |
-| GitHub | [![GitHub followers](https://img.shields.io/github/followers/danielrosehill?label=Follow&style=flat-square)](https://github.com/danielrosehill) |
 | Website | [![Website](https://img.shields.io/badge/Website-danielrosehill.com-blue?style=flat-square&logo=firefox)](https://danielrosehill.com) |
 | LinkedIn | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/danielrosehill/) |
 | Hugging Face | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Profile-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/danielrosehill) |
