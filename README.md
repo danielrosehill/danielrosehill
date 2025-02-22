@@ -4,8 +4,13 @@
 </p>
 
 <div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=danielrosehill&color=brightgreen)
+<img src="https://komarev.com/ghpvc/?username=danielrosehill&color=brightgreen" alt="Profile Views">
 </div>
+
+![Location](https://img.shields.io/badge/Location-Jerusalem,%20Israel-green?style=flat-square&logo=google-maps)
+[![Website](https://img.shields.io/badge/Website-danielrosehill.com-blue?style=flat-square&logo=firefox)](https://danielrosehill.com)
+[![Repo Index](https://img.shields.io/badge/Repo%20Index-Browse-orange?style=flat-square&logo=github)](https://github.com/danielrosehill/Repo-Index)
+![Tech Focus](https://img.shields.io/badge/Focus-AI%20%7C%20RAG%20%7C%20Agents-purple?style=flat-square&logo=openai)
 
 My approach to open source involves sharing not only well-developed ideas, but also preliminary sketches, and even experimental configurations like the [weirdly confrontational AI bots](https://github.com/danielrosehill/Weird-AI-Bots/blob/main/standoffish-ai-tool.md) (ideally deployed as two voice agent configurations engaging in spirited debate).
 
@@ -40,11 +45,10 @@ I share the common aversion to meaningless AI hype, but I am excited by the fact
 <details>
 <summary><strong>Other Social Media</strong></summary>
 
-![Location](https://img.shields.io/badge/Location-Jerusalem,%20Israel-green?style=flat-square&logo=google-maps)
-[![Website](https://img.shields.io/badge/Website-danielrosehill.com-blue?style=flat-square&logo=firefox)](https://danielrosehill.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/danielrosehill/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Profile-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/danielrosehill)
-![Tech Focus](https://img.shields.io/badge/Focus-AI%20%7C%20RAG%20%7C%20Agents-purple?style=flat-square&logo=openai)
+
 </details>
 
 <details>
