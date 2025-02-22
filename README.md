@@ -35,7 +35,7 @@ Note: I am receiving an increasing amount of unsolicited spam, which is becoming
 
 Note: Repositories were reorganized in November 2024. If you previously starred or followed a repository and would like to stay updated, please re-follow. I apologize for any inconvenience. 
 
-## Connect & Stats
+## Other Social Networks
 
 | Platform & Stats | Badge |
 |-----------------|-------|
