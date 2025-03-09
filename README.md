@@ -24,7 +24,7 @@ This GitHub profile serves as a record of my evolving thoughts and explorations.
 
 ---
 
-<details open>
+<details>
 <summary><h3>🤖 AI Interests</h3></summary>
 
 <blockquote>
@@ -44,7 +44,7 @@ Additionally, I am interested in agentic AI, multi-agent networks, MCP, and work
 
 ---
 
-<details open>
+<details>
 <summary><h3>🧠 Philosophy</h3></summary>
 
 <blockquote>
@@ -56,7 +56,7 @@ I share the common aversion to meaningless AI hype, but I am excited by the fact
 
 ---
 
-<details open>
+<details>
 <summary><h3>🔗 Social Media & Connect</h3></summary>
 
 <div align="center">
@@ -64,6 +64,7 @@ I share the common aversion to meaningless AI hype, but I am excited by the fact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danielrosehill/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Profile-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/danielrosehill)
 [![AI Sloths Gallery](https://img.shields.io/badge/AI%20Sloths%20Gallery-Visit-green?style=for-the-badge&logo=image)](https://aisloths.bydanielrosehill.com/)
+[![OpenWebUI](https://img.shields.io/badge/OpenWebUI-Profile-blue?style=for-the-badge&logo=openai)](https://openwebui.com/u/danielrosehill)
 
 </div>
 
@@ -73,7 +74,7 @@ I share the common aversion to meaningless AI hype, but I am excited by the fact
 
 ---
 
-<details open>
+<details>
 <summary><h3>📚 Repositories by Subject</h3></summary>
 
 <div align="center">
@@ -96,7 +97,7 @@ I share the common aversion to meaningless AI hype, but I am excited by the fact
 
 ---
 
-<details open>
+<details>
 <summary><h3>📊 Views & Stats</h3></summary>
 
 <div align="center">
