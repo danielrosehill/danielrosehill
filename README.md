@@ -7,6 +7,9 @@
 [![Website](https://img.shields.io/badge/Website-danielrosehill.com-blue?style=flat-square&logo=firefox)](https://danielrosehill.com)
 [![AI Agents Library](https://img.shields.io/badge/AI%20Agents%20Library-agents.danielrosehill.com-orange?style=flat-square&logo=openai)](https://agents.danielrosehill.com/)
 
+[![Resume](https://img.shields.io/badge/Resume-View%20CV-red?style=flat-square&logo=adobeacrobatreader)](https://danielrosehill.com/resume/)
+[![Book Meeting](https://img.shields.io/badge/Contact-Book%20Meeting-brightgreen?style=flat-square&logo=calendar)](https://danielrosehill.com/book-meeting/)
+
 </div>
 
 <h1 align="center">Daniel Rosehill's GitHub</h1>
