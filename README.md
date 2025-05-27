@@ -5,7 +5,7 @@
 ![Tech Focus](https://img.shields.io/badge/Focus-AI%20%7C%20RAG%20%7C%20Agents-purple?style=flat-square&logo=openai)
 
 [![Website](https://img.shields.io/badge/Website-danielrosehill.com-blue?style=flat-square&logo=firefox)](https://danielrosehill.com)
-[![AI Agents Library](https://img.shields.io/badge/AI%20Agents%20Library-agents.bydanielrosehill.com-orange?style=flat-square&logo=openai)](https://agents.bydanielrosehill.com/)
+[![AI Agents Library](https://img.shields.io/badge/AI%20Agents%20Library-agents.danielrosehill.com-orange?style=flat-square&logo=openai)](https://agents.danielrosehill.com/)
 
 </div>
 
