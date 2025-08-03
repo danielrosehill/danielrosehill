@@ -1,6 +1,6 @@
 <div align="center">
 
-[![GitHub Master Index](https://img.shields.io/badge/GitHub-Master%20Index-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Github-Master-Index)
+ 
 ![Location](https://img.shields.io/badge/Location-Jerusalem,%20Israel-green?style=flat-square&logo=google-maps)
 ![Tech Focus](https://img.shields.io/badge/Focus-AI%20%7C%20RAG%20%7C%20Agents-purple?style=flat-square&logo=openai)
 
@@ -50,11 +50,12 @@ Key areas:
 <div align="center">
 
 [![Master Index](https://img.shields.io/badge/Master%20Index-Browse%20All-brightgreen?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Github-Master-Index?tab=readme-ov-file)
+[![Repository Navigator](https://img.shields.io/badge/Repository%20Navigator-Browse%20All-orange?style=for-the-badge&logo=compass)](https://repos.danielrosehill.com)
 
 [![Assistants & Agents](https://img.shields.io/badge/Assistants%20%26%20Agents-Browse-blue?style=for-the-badge&logo=openai)](https://github.com/danielrosehill/Github-Master-Index/blob/main/sections/assistants.md)
 [![Context & RAG](https://img.shields.io/badge/Context%20%26%20RAG-Browse-purple?style=for-the-badge&logo=semantic-web)](https://github.com/danielrosehill/Github-Master-Index/blob/main/sections/context-rag.md)
 [![Documentation](https://img.shields.io/badge/Documentation-Browse-green?style=for-the-badge&logo=markdown)](https://github.com/danielrosehill/Github-Master-Index/blob/main/sections/documentation.md)
-[![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-Browse-orange?style=for-the-badge&logo=openai)](https://github.com/danielrosehill/Github-Master-Index/blob/main/sections/prompt-libraries.md)
+ 
 
 </div>
 
