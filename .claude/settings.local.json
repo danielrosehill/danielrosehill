@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//home/daniel/repos/github/Claude-Code-Repos-Index/**)",
+      "Read(//home/daniel/repos/github/**)",
+      "Bash(git clone:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
