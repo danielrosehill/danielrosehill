@@ -27,33 +27,5 @@ This GitHub profile serves as a record of my experiments and projects. The compl
 
 </div>
 
----
-
-## Repository Indexes
-
-<div align="center">
-
-[![Master Index](https://img.shields.io/badge/Master%20Index-Browse-brightgreen?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Github-Master-Index)
-
-[![AI Agents](https://img.shields.io/badge/AI%20Agents-Browse-blue?style=flat-square&logo=openai)](https://github.com/danielrosehill/AI-Agents)
-[![AI Generated Projects](https://img.shields.io/badge/AI%20Generated%20Projects-Browse-purple?style=flat-square&logo=ai)](https://github.com/danielrosehill/AI-Generated-Projects-Index)
-[![AI Projects](https://img.shields.io/badge/AI%20Projects-Browse-violet?style=flat-square&logo=tensorflow)](https://github.com/danielrosehill/AI-Projects-Index)
-[![Apps](https://img.shields.io/badge/Apps-Browse-orange?style=flat-square&logo=appstore)](https://github.com/danielrosehill/Apps-Index)
-
-[![Awesome Lists](https://img.shields.io/badge/Awesome%20Lists-Browse-red?style=flat-square&logo=awesome-lists)](https://github.com/danielrosehill/Awesome-List-Repos-Index)
-[![Backup Projects](https://img.shields.io/badge/Backup%20Projects-Browse-yellow?style=flat-square&logo=backblaze)](https://github.com/danielrosehill/Backup-Projects-Index)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Browse-blueviolet?style=flat-square&logo=anthropic)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
-[![Development](https://img.shields.io/badge/Development-Browse-green?style=flat-square&logo=github)](https://github.com/danielrosehill/Development-Project-Index)
-
-[![Docs](https://img.shields.io/badge/Docs-Browse-lightgrey?style=flat-square&logo=markdown)](https://github.com/danielrosehill/My-Docs-Index)
-[![Experiments](https://img.shields.io/badge/Experiments-Browse-pink?style=flat-square&logo=flask)](https://github.com/danielrosehill/Experiments-And-Evaluations-Index)
-[![Gemini Projects](https://img.shields.io/badge/Gemini%20Projects-Browse-blue?style=flat-square&logo=google)](https://github.com/danielrosehill/Gemini-Vibe-Coding-Projects)
-[![Home Assistant](https://img.shields.io/badge/Home%20Assistant-Browse-cyan?style=flat-square&logo=homeassistant)](https://github.com/danielrosehill/Home-Assistant-Index)
-
-[![Homebox](https://img.shields.io/badge/Homebox-Browse-orange?style=flat-square&logo=box)](https://github.com/danielrosehill/Homebox-Projects-Index)
-[![N8N Workflows](https://img.shields.io/badge/N8N%20Workflows-Browse-red?style=flat-square&logo=n8n)](https://github.com/danielrosehill/N8N-Workflows-Index)
-[![Prompt Libraries](https://img.shields.io/badge/Prompt%20Libraries-Browse-yellowgreen?style=flat-square&logo=chatbot)](https://github.com/danielrosehill/My-Prompt-Libraries)
-
-</div>
-
+ 
  
