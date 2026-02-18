@@ -3,7 +3,7 @@
 
 ---
 
-I'm Daniel Rosehill, based in Jerusalem, Israel. I work as an AI systems developer with a focus on workflow automation and agent orchestration. My passions within AI include MCP, agentic AI, and ASR/STT.
+I'm Daniel Rosehill, based in Jerusalem, Israel. I work as an AI systems developer with a focus on workflow automation and agent orchestration. My passions within AI include MCP, agentic AI, and ASR/STT. Creator of [My Weird Prompts](https://myweirdprompts.com) — an AI-human podcasting experiment.
 
 This GitHub profile serves as a record of my experiments and projects. The complete structure is organized in my [Master Index](https://github.com/danielrosehill/Github-Master-Index).
 
