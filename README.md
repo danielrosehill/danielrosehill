@@ -22,7 +22,7 @@ This GitHub profile serves as a record of my experiments and projects. The compl
 [![Projects](https://img.shields.io/badge/Projects-View%20Work-orange?style=flat-square&logo=github)](https://danielrosehill.com/projects)
 [![Resume](https://img.shields.io/badge/Resume-View%20CV-red?style=flat-square&logo=adobeacrobatreader)](https://www.danielrosehill.com/about/cv)
 [![Resume PDF](https://img.shields.io/badge/Resume-PDF%20Download-red?style=flat-square&logo=adobeacrobatreader)](https://www.danielrosehill.com/files/docs/pdf/daniel-resume-public.pdf)
-[![Contact](https://img.shields.io/badge/Contact-Book%20Meeting-brightgreen?style=flat-square&logo=calendar)](https://danielrosehill.com/book-meeting/)
+[![Contact](https://img.shields.io/badge/Contact-Get%20In%20Touch-brightgreen?style=flat-square&logo=mail.ru)](https://www.danielrosehill.com/contact/form)
 
 </div>
 
