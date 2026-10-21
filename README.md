@@ -10,7 +10,7 @@ I'm Daniel Rosehill, based in Jerusalem, Israel.
 - Developer of [Hebrish](https://hebrish.app) — on-device English-Hebrew code-switching dictation for Android, Linux and Windows
 - Creator of [My Weird Prompts](https://myweirdprompts.com) — an AI-human podcasting experiment
 - Android apps (Hebrish, Parlance, Family First Aid, MWP FM) in my own F-Droid repo: [one-tap add link](https://fdroid.link/#https://apps.danielrosehill.com/fdroid/repo?fingerprint=35E988F3234F668852138206EB237FCF3F1FA3F4981077DE1B269E81BE1B74E7) for F-Droid / Droid-ify, or the [app list and QR code](https://apps.danielrosehill.com/fdroid/repo/index.html)
-- This GitHub profile is a record of my experiments and projects, organized in my [Master Index](https://github.com/danielrosehill/Github-Master-Index)
+- This GitHub profile is a record of my experiments and projects, organized in my [Master Index](https://github.com/danielrosehill/Start-Here)
 
 ---
 
